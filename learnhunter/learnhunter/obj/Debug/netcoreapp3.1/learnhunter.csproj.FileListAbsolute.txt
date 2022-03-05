@@ -1,0 +1,14 @@
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.exe
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.deps.json
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.runtimeconfig.json
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.runtimeconfig.dev.json
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.dll
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\bin\Debug\netcoreapp3.1\learnhunter.pdb
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.AssemblyInfoInputs.cache
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.AssemblyInfo.cs
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.csproj.CoreCompileInputs.cache
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.dll
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.pdb
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.genruntimeconfig.cache
+D:\SATCOM(intern)\oop c#\learnhunter\learnhunter\obj\Debug\netcoreapp3.1\learnhunter.csproj.AssemblyReference.cache
